@@ -1,0 +1,4 @@
+repository "Little Red Riding Hood@ssl://xjtlu-surf@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/2036680060" 
+     
